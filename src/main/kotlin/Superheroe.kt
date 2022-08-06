@@ -21,7 +21,7 @@ class Superheroe (var nombre: String, var poder: String, var puedeVolar: Boolean
 }
 
 /**
- * TAREA-1:
+ * TAREA-3:
  * Crear una clase "Superheroe" con 3 constructores y atributos:
  * Constructor primario: nombre, poder, puedeVolar
  * 2do constructor: nombre, poder, puedeVolar=false
